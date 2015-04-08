@@ -1,1 +1,1 @@
-# siw-jpa-es2
+# siw-jpa
